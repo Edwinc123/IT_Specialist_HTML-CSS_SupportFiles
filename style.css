@@ -8,14 +8,15 @@ ul{
 li{
   float:left;
 }
-li a, dropdownBtn{
+li a, dropBtn{
 display:inline-block;
   color:red;
   text-align:center;
   padding:12px 14px;
+  text-decoration:none;
 }
 li a:hover, .dropDown:hover .dropBtn{
-  background-color:#pink;
+  background-color:red;
 }
 li.dropDown{
   display:inline-block;

@@ -10,12 +10,12 @@ li{
 }
 li a, dropBtn{
 display:inline-block;
-  color:#ff474c;
+  color:red;
   text-align:center;
   padding:12px 14px;
 }
 li a:hover, .dropDown:hover .dropBtn{
-  background-color:red;
+  background-color:#ff474c;
 }
 li.dropDown{
   display:inline-block;

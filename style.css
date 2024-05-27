@@ -50,3 +50,14 @@ li.dropDown{
   height: 970px;
   width:40%;
 }
+
+container2{
+ border: 3px solid #000000;
+  position: absolute;
+  right:1px;
+  margin: 2px;
+  padding: 2px;
+  height: 970px;
+  width:40%;
+  
+}

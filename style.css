@@ -40,3 +40,13 @@ li.dropDown{
 .dropDown:hover .dropDown-content{
   display:block;
 }
+
+#container{
+  border: 3px solid;
+  position: absolute;
+  left:1px;
+  margin: 2px;
+  padding: 2px;
+  height: 970px;
+  width:50%;
+}

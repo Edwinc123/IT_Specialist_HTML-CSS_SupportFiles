@@ -41,7 +41,7 @@ li.dropDown{
   display:block;
 }
 
-container{
+#container{
   border: 3px solid #ba7ff5;
   position: absolute;
   left:1px;

@@ -9,7 +9,7 @@ li{
   float:left;
 }
 li a, dropBtn{
-display:inline-block;
+display: inline-block;
   color:red;
   text-align:center;
   padding:12px 14px;
